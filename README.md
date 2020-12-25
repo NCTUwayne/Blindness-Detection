@@ -47,5 +47,4 @@ https://github.com/tahsin314/40th_place_solution_aptos2019-blindness-detection.
 https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet.
 https://arxiv.org/abs/1905.11946.
 3. Ben Graham’s preprocessing:
-https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_c
-ompetition
+https://github.com/btgraham/SparseConvNet/tree/kaggle_Diabetic_Retinopathy_competition.
