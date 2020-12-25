@@ -33,10 +33,10 @@ Loss: MSE Loss
 We trained 10 epochs using 2015 data as train and 2019 data as validation set. Then split the 2019 data into 80:20 ratio and
 finetuned the previously trained model over it for 15 epochs. We took the best model based on validation loss.
 ## Experimental results
-Model           |   Val  Kappa  | Public  Kappa | Private Kappa |
-----------------|:-------------:|--------------:|--------------:|
-Efficientnet B0 |    0.908657   |    0.788192   |    0.901865   | 
-Efficientnet B1 |    0.915766   |    0.787105   |    0.909380   |
-Efficientnet B2 |    0.904228   |    0.785692   |    0.901226   |
-Efficientnet B3 |    0.896781   |    0.786012   |    0.899652   |
-Ensemble        |               |    0.797852   |    0.909811   |
+Model           |   Val  Kappa  | Public Kappa | Private Kappa |
+----------------|:-------------:|-------------:|-------------:|
+Efficientnet B0 |    0.908657   |   0.788192   |   0.901865   | 
+Efficientnet B1 |    0.915766   |   0.787105   |   0.909380   |
+Efficientnet B2 |    0.904228   |   0.785692   |   0.901226   |
+Efficientnet B3 |    0.896781   |   0.786012   |   0.899652   |
+Ensemble        |               |   0.797852   |   0.909811   |
